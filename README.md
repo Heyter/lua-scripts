@@ -1,0 +1,2 @@
+# lua-scripts
+Garrysmod scripts
